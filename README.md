@@ -3,7 +3,7 @@
 Contributor:
 Thomas Keene
 
-File Location: Pymaceuticals/Pymaceuticals.ipymb
+File Location: Pymaceuticals/pymaceuticals.ipymb
 
 
 Overview:
