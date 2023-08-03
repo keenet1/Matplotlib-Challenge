@@ -14,6 +14,7 @@ I wish to thank and acknowledge the following for help and advice:
 https://github.com/redeat17/Matplotlib-Challenge/blob/master/pymaceuticals_starter.ipynb
 https://github.com/cmartell5/pharma-analysis/blob/main/Pymaceuticals/pymaceuticals_final.ipynb
 https://github.com/elsafig/Matplotlib-Challenge-Repo/blob/main/pymaceuticals.ipynb
+https://github.com/poonam-ux/Matplotlib_Pharmaceuticals_performance_data/blob/main/pymaceuticals.ipynb
 
 
 
